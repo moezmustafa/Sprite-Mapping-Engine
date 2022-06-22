@@ -1,0 +1,10 @@
+value of x is -725
+value of y is -382.5
+
+value of w is 16
+value of h is 16
+
+value of ReSizeVal is 31.2
+
+value of wPos is grid mapper 1023.5
+value of hPos is grid mapper 708.5

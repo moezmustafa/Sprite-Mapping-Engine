@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(21,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(87,19): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(252,43): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(253,43): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(255,40): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\Source.cpp(256,40): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project2.vcxproj -> C:\Users\moeez\Desktop\Sprite Mapping Engine\Project2\x64\Debug\Project2.exe
